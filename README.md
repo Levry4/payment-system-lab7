@@ -6,23 +6,23 @@
 ## Структура проекта
 
 payment-system-lab7/
-├── domain/
-│   ├── __init__.py
-│   ├── entities.py
-│   └── value_objects.py
-├── application/
-│   ├── __init__.py
-│   └── use_cases.py
-├── infrastructure/
-│   ├── __init__.py
-│   ├── repositories.py
-│   └── gateways.py
-├── tests/
-│   ├── __init__.py
-│   └── test_use_cases.py
-├── main.py
-├── requirements.txt
-└── README.md
+- domain/
+  - __init__.py
+  - entities.py
+  - value_objects.py
+- application/
+  - __init__.py
+  - use_cases.py
+- infrastructure/
+  - __init__.py
+  - repositories.py
+  - gateways.py
+- tests/
+  - __init__.py
+  - test_use_cases.py
+- main.py
+- requirements.txt
+- README.md
 
 ## Как запустить
 
